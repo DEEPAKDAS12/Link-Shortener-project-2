@@ -1,0 +1,21 @@
+PS C:\Users\macha\OneDrive\Desktop\motion_cut_INternship\linkshortener-project-2> javac LinkShortenerApp.java
+PS C:\Users\macha\OneDrive\Desktop\motion_cut_INternship\linkshortener-project-2> java LinkShortenerApp
+Enter the long URL (or 'exit' to quit): "https://example.com
+Error: Invalid URL format.
+Enter the long URL (or 'exit' to quit): https://example.com
+Shortened URL: 799npC
+Enter the long URL (or 'exit' to quit): HTTPS://EXAMPLE.COM
+Shortened URL: 799npC
+Enter the long URL (or 'exit' to quit): https://students.codingninjas.com/share/image?redirect_to=Profile&title=%F0%9F%8F%86+SkillBadge+Unlocked%21+%7C+Naukri+Code+360&description=Congrats+on+earning+your+Achiever+in+Arrays+on+Naukri+Code+360%21+%F0%9F%8C%9F+Showcase+your+hard-earned+skills+and+knowledge+with+your+network+by+sharing+this+badge.+Keep+learning+and+level+up+your+career%21+%23SkillBadge+%23Naukri+Code+360&url=https%3A%2F%2Fcertificate.codingninjas.com%2Fcertificate%2Fdd8e3d2a49c75f60%2FBadgesRoninCertificate&utm_medium=shareable_moments_codestudio&utm_campaign=PracticeTopic_Achiever&uuid=3149b8f3-add3-40f6-b572-01f5bedaa36a&utm_source=whatsapp
+Shortened URL: w7wypb
+Enter the long URL (or 'exit' to quit): https://example.com
+Shortened URL: 799npC
+Enter the long URL (or 'exit' to quit): HTTPS://EXAMPLE.COM
+Shortened URL: 799npC
+Enter the long URL (or 'exit' to quit): https://example.com/page?param=value
+Shortened URL: lQLg0u
+Enter the long URL (or 'exit' to quit): https://example.com/!@#$%^&*()
+Shortened URL: Sf3GUB
+Enter the long URL (or 'exit' to quit): exit
+Exiting Link Shortener App.
+PS C:\Users\macha\OneDrive\Desktop\motion_cut_INternship\linkshortener-project-2>
